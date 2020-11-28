@@ -5,4 +5,4 @@
 ---
 
 * .备用域名：https://studycloud.cloud
-* .备用域名：https://studycloud.biz
+* .备用域名：https://stduycloud.biz
